@@ -1,0 +1,17 @@
+Comando: uname -a
+
+Este comando muestra información detallada del sistema operativo, incluyendo el nombre del sistema, versión del kernel, arquitectura y fecha de compilación.
+
+Resultado obtenido:
+MINGW64_NT-10.0-26200 PCDY 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys
+
+Comando: whoami
+
+Este comando muestra el nombre del usuario que actualmente está utilizando el sistema.
+
+Resultado obtenido:
+despi
+
+Importancia:
+
+Conocer la información del sistema es útil para administrar servidores porque permite identificar el entorno de trabajo, verificar versiones instaladas, solucionar problemas y confirmar qué usuario está ejecutando determinadas tareas.
