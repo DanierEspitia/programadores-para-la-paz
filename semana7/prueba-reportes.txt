@@ -1,0 +1,15 @@
+Cuando se realiza una petición GET a la ruta http://localhost:3000/reportes, el servidor devuelve un arreglo con todos los reportes almacenados en memoria.
+
+Al inicio el arreglo está vacío, pero después de enviar reportes mediante POST, estos se van agregando al array "reportes".
+
+Cada vez que se consulta la ruta GET, se obtiene la lista actualizada de reportes registrados.
+
+Ejemplo de respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
