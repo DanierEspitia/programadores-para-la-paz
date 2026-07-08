@@ -1,0 +1,14 @@
+Las dos tareas que realizaría primero son:
+
+1. Permitir que el ciudadano registre una incidencia.
+2. Enviar una notificación al coordinador mediante Telegram cuando se registre un nuevo reporte.
+
+¿Por qué son las más importantes?
+
+Porque primero se necesita registrar la información para que exista un reporte, y después notificar al responsable para que pueda revisarlo rápidamente.
+
+Definición de "Terminado":
+
+- La funcionalidad funciona correctamente.
+- Fue probada y no presenta errores.
+- Quedó registrada en Git mediante un commit.

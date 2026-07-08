@@ -1,0 +1,20 @@
+Automatización con n8n y Telegram
+
+Evento:
+Se registra un nuevo reporte en el sistema.
+
+Acción:
+n8n envía automáticamente un mensaje al grupo o canal de Telegram.
+
+Mensaje:
+"Nuevo reporte recibido. Revisar el sistema para realizar el seguimiento."
+
+Información que no debe enviarse:
+
+- Nombres completos.
+- Documentos de identidad.
+- Direcciones.
+- Números de teléfono.
+- Contraseñas.
+- Tokens o claves de acceso.
+- Cualquier dato personal o sensible.
