@@ -1,0 +1,14 @@
+La plataforma tendría una página principal donde se mostrarían los próximos eventos deportivos organizados por Lorica Runners Club.
+
+En la parte superior habría un formulario para crear un nuevo evento con los siguientes campos:
+- Nombre del evento
+- Descripción
+- Fecha
+- Lugar
+- Distancia
+
+Cada evento tendría un botón llamado "Inscribirse", mediante el cual los corredores podrían registrarse.
+
+También se mostraría un contador con el número de inscritos en cada carrera para conocer el nivel de participación.
+
+La interfaz sería sencilla, organizada y no mostraría información privada de los participantes, únicamente el número de inscritos y los datos públicos del evento.

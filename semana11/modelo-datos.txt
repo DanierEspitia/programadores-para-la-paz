@@ -1,0 +1,29 @@
+MODELO DE DATOS
+Plataforma: Gestión de Eventos Deportivos - Lorica Runners Club
+
+Entidad: Evento
+
+Campos principales:
+- id
+- nombre
+- descripcion
+- fecha
+- lugar
+- distancia
+
+Propósito:
+Guardar la información de las carreras y actividades deportivas organizadas por el club para que los participantes puedan consultarlas.
+
+
+Entidad: Inscripción
+
+Campos principales:
+- id
+- evento_id
+- nombre_participante
+- categoria
+- telefono
+- fecha_inscripcion
+
+Propósito:
+Registrar los corredores inscritos en cada evento para facilitar la organización, control y seguimiento de los participantes.
