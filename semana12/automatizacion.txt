@@ -1,0 +1,13 @@
+AUTOMATIZACIÓN
+
+Evento:
+Cuando un corredor realiza una nueva inscripción.
+
+Mensaje:
+"Nueva inscripción registrada para el evento deportivo."
+
+Canal:
+Telegram mediante una automatización creada con n8n.
+
+Información que NO debe enviarse:
+Contraseñas, documentos de identidad, teléfonos, direcciones, correos electrónicos, tokens de acceso ni ningún dato personal sensible de los participantes.

@@ -1,0 +1,8 @@
+FLUJO DEL SISTEMA
+Plataforma: Eventos Deportivos Lorica Runners Club
+
+1. El administrador crea un nuevo evento deportivo desde la plataforma.
+2. La información del evento queda almacenada en la base de datos.
+3. Los corredores consultan los eventos disponibles y realizan su inscripción.
+4. El sistema registra automáticamente cada inscripción y actualiza el número de participantes.
+5. Al finalizar el proceso de inscripción, el sistema genera un documento PDF con el listado de corredores inscritos para facilitar la organización del evento.
